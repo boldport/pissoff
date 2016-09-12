@@ -1,0 +1,134 @@
+{
+"pins":
+  {
+  "1":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.75, 1.905],
+        "label": "SHDN"
+      }
+    },
+  "2":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.75, 0.635],
+        "label": "BYPADD"
+      }
+    },
+  "3":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.75, -0.635],
+        "label": "IN+"
+      }
+    },
+  "4":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.75, -1.905],
+        "label": "IN-"
+      }
+    },
+  "5":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.75, -1.905],
+        "label": "Vo+"
+      }
+    },
+  "6":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.75, -0.635],
+        "label": "VDD"
+      }
+    },
+  "7":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.75, 0.635],
+        "label": "GND"
+      }
+    },
+  "8":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.75, 1.905],
+        "label": "Vo-"
+      }
+    }
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "layers": ["top"],
+          "width": 8.1,
+          "height": 6.0
+        },
+        { 
+          "type": "circle",
+          "layers": ["top"],
+          "style": "fill",
+          "diameter": 0.8,
+          "location": [-5,3.2]
+        }
+      ]
+    },
+    "assembly":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "layers": ["top"],
+          "width": 7.6,
+          "height": 5.5,
+          "offset": [0, 0] 
+        },
+        { 
+          "type": "circle",
+          "layers": ["top"],
+          "style": "fill",
+          "diameter": 0.8,
+          "location": [-3.0,2.0]
+        }
+      ]
+    }
+  },
+  "pads":
+  {
+    "pad":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "width": 1.5,
+          "height": 0.6,
+          "layers": ["top"]
+        }
+      ]      
+    }
+  }
+}

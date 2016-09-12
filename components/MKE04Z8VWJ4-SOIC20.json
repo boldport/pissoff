@@ -1,0 +1,242 @@
+{
+"pins":
+  {
+  "1":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.75, 5.715],
+        "label": "PTA5"
+      }
+    },
+  "2":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.75, 4.445],
+        "label": "PTA4"
+      }
+    },
+  "3":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.75, 3.175],
+        "label": "VDD"
+      }
+    },
+  "4":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.75, 1.905],
+        "label": "VSS"
+      }
+    },
+  "5":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.75, 0.635],
+        "label": "PTB7"
+      }
+    },
+  "6":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.75, -0.635],
+        "label": "PTB6"
+      }
+    },
+  "7":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.75, -1.905],
+        "label": "PTB5"
+      }
+    },
+  "8":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.75, -3.175],
+        "label": "PTB4"
+      }
+    },
+  "9":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.75, -4.445],
+        "label": "PTC3"
+      }
+    },
+  "10":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.75, -5.715],
+        "label": "PTC2"
+      }
+    },
+  "11":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.75, -5.715],
+        "label": "PTC1"
+      }
+    },
+  "12":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.75, -4.445],
+        "label": "PTC0"
+      }
+    },
+  "13":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.75, -3.175],
+        "label": "PTB3"
+      }
+    },
+  "14":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.75, -1.905],
+        "label": "PTB2"
+      }
+    },
+  "15":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.75, -0.635],
+        "label": "PTB1"
+      }
+    },
+  "16":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.75, 0.635],
+        "label": "PTB0"
+      }
+    },
+  "17":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.75, 1.905],
+        "label": "PTA3"
+      }
+    },
+  "18":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.75, 3.175],
+        "label": "PTA2"
+      }
+    },
+  "19":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.75, 4.445],
+        "label": "PTA1"
+      }
+    },
+  "20":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.75, 5.715],
+        "label": "PTA0"
+      }
+    }
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "layers": ["top"],
+          "width": 8.1,
+          "height": 13.9
+        },
+        { 
+          "type": "circle",
+          "layers": ["top"],
+          "style": "fill",
+          "diameter": 0.8,
+          "location": [-5,7]
+        }
+      ]
+    },
+    "assembly":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "layers": ["top"],
+          "width": 7.6,
+          "height": 13.4,
+          "offset": [0, 0] 
+        },
+        { 
+          "type": "circle",
+          "layers": ["top"],
+          "style": "fill",
+          "diameter": 0.8,
+          "location": [-3.0,5.75]
+        }
+      ]
+    }
+  },
+  "pads":
+  {
+    "pad":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "width": 1.5,
+          "height": 0.6,
+          "layers": ["top"]
+        }
+      ]      
+    }
+  }
+}
