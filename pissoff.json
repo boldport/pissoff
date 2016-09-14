@@ -1,10 +1,28 @@
 {
   "components": {
+    "B1": {
+      "footprint": "battery-placeholder", 
+      "layer": "bottom", 
+      "location": [
+        0.281745, 
+        2.412093
+      ], 
+      "rotate": 180, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
     "C1": {
       "footprint": "0805-cap", 
       "layer": "bottom", 
       "location": [
-        -75.548902, 
+        -109.41556, 
         0
       ], 
       "rotate": 0, 
@@ -18,31 +36,221 @@
         }
       }
     }, 
+    "C11": {
+      "footprint": "0805-cap", 
+      "layer": "top", 
+      "location": [
+        -31.904039, 
+        6.395308
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "C13": {
+      "footprint": "0805-cap", 
+      "layer": "top", 
+      "location": [
+        -31.85731, 
+        14.94671
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "C7": {
+      "footprint": "0805-cap", 
+      "layer": "top", 
+      "location": [
+        -21.08238, 
+        16.40134
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "C8": {
+      "footprint": "0805-cap", 
+      "layer": "top", 
+      "location": [
+        -21.129109, 
+        14.391994
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "C9": {
+      "footprint": "0805-cap", 
+      "layer": "top", 
+      "location": [
+        -3.620807, 
+        15.377311
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
     "IC1": {
       "footprint": "MKE04Z8VWJ4-SOIC20", 
       "layer": "top", 
       "location": [
-        0, 
-        0
+        -12.257776, 
+        1.587401
       ], 
-      "rotate": 0, 
+      "rotate": 180, 
       "show": true
     }, 
     "IC2": {
       "footprint": "TPA301D-SOIC8", 
       "layer": "top", 
       "location": [
-        -20, 
-        0
+        -12.257776, 
+        15.921447
       ], 
       "rotate": 0, 
       "show": true
+    }, 
+    "IC3": {
+      "footprint": "dual-nFET-SOT363", 
+      "layer": "top", 
+      "location": [
+        -20.051298, 
+        23.748314
+      ], 
+      "rotate": 0, 
+      "show": true
+    }, 
+    "J1": {
+      "footprint": "microSD-molex-105162-001", 
+      "layer": "top", 
+      "location": [
+        -12.257776, 
+        -17.728305
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "J3": {
+      "footprint": "1x6-2p54-stag", 
+      "layer": "top", 
+      "location": [
+        -39.755552, 
+        10.724445
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "J4": {
+      "footprint": "1x6-2p54-stag", 
+      "layer": "top", 
+      "location": [
+        -39.755552, 
+        -10.724445
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "J6": {
+      "footprint": "1x4-2p54-stag", 
+      "layer": "top", 
+      "location": [
+        18.048892, 
+        20
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "J7": {
+      "footprint": "1x4-2p54-stag", 
+      "layer": "top", 
+      "location": [
+        18.048892, 
+        -20
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
     }, 
     "LED1": {
       "footprint": "led-1206", 
       "layer": "bottom", 
       "location": [
-        -84.879996, 
+        -118.74665, 
         8.064444
       ], 
       "rotate": 0, 
@@ -53,12 +261,12 @@
         }
       }
     }, 
-    "R2-P1.0": {
+    "R1": {
       "footprint": "0805", 
-      "layer": "bottom", 
+      "layer": "top", 
       "location": [
-        -79.808929, 
-        4.838129
+        -25.974426, 
+        10.688025
       ], 
       "rotate": 0, 
       "show": true, 
@@ -66,6 +274,366 @@
         "refdef": {
           "location": [
             -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R10": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -21.097443, 
+        18.461423
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R12": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -31.904039, 
+        8.59157
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R14": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -26.017717, 
+        13.489024
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R15": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -26.083801, 
+        15.581295
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R16": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -26.116844, 
+        17.706609
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R17": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -31.898871, 
+        12.926872
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R18": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -31.805413, 
+        10.730611
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R19": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -1.028037, 
+        -5.85024
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R2": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -25.951062, 
+        8.613469
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R20": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -1.074766, 
+        -3.700703
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R200": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -1.086105, 
+        8.680175
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R21": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -1.086105, 
+        -1.657261
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R22": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -1.086105, 
+        0.410226
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R23": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -1.086105, 
+        2.477714
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R24": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -1.086105, 
+        4.545202
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R3": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -1.086105, 
+        10.747663
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R4": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -1.086105, 
+        6.613347
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R5": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -25.917421, 
+        6.542056
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R6": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -12.359125, 
+        11.428713
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "SP1": {
+      "footprint": "speaker", 
+      "layer": "top", 
+      "location": [
+        18.048892, 
+        0
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
             0
           ]
         }
@@ -163,9 +731,9 @@
   }, 
   "outline": {
     "shape": {
-      "height": 100, 
+      "height": 40, 
       "type": "rect", 
-      "width": 100
+      "width": 80
     }
   }, 
   "shapes": {}, 
