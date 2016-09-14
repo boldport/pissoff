@@ -1,0 +1,255 @@
+{
+  "info": {
+    "description": "",
+    "manufacturer": "",
+    "package": "",
+    "part-number": "",
+    "suppliers": {
+    },
+    "notes": ""
+  },
+  "pins":
+  {
+  "1":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [3.53,0.5]
+      }
+    },
+  "2":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [2.43,0.5]
+      }
+    },
+  "3":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [1.33,0.5]
+      }
+    },
+  "4":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [0.23,0.5]
+      }
+    },
+  "5":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-0.87,0.5]
+      }
+    },
+  "6":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-1.97,0.5]
+      }
+    },
+  "7":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-3.11,0.5]
+      }
+    },
+  "8":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.21,0.5]
+      }
+    },
+  "PIN9":
+    {	
+      "layout": 
+      {
+        "pad": "P9", 
+        "location": [5.29,3.18]
+      }
+    },
+  "G2":
+    {	
+      "layout": 
+      {
+        "pad": "G", 
+        "location": [5.325,6.96]
+      }
+    },
+  "G1":
+    {	
+      "layout": 
+      {
+        "pad": "G", 
+        "location": [5.325,4.41]
+      }
+    },
+  "G3":
+    {	
+      "layout": 
+      {
+        "pad": "G", 
+        "location": [-5.325,6.39]
+      }
+    },
+  "G4":
+    {	
+      "layout": 
+      {
+        "pad": "G-big", 
+        "location": [-5.325,3.31]
+      }
+    },
+  "M1":
+    {	
+      "layout": 
+      {
+        "pad": "long", 
+        "location": [-2.095,7.736]
+      }
+    },
+  "M2":
+    {	
+      "layout": 
+      {
+        "pad": "long", 
+        "location": [2.095,7.736]
+      }
+    }
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "width": 11.8,
+          "height": 8.1,
+          "location": [0,3.95]
+        }
+      ]
+    },
+    "assembly":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "width": 11.3,
+          "height": 7.6,
+          "stroke-width": 0.1,
+          "location": [0,3.95]
+        }
+      ]
+    }
+  },
+  "pads":
+  {
+    "pad":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "outline": 0,
+          "width": 0.5,
+          "height": 1,
+          "radii": {
+            "bl": 0.1, 
+            "br": 0.1, 
+            "tl": 0, 
+            "tr": 0
+          }
+        }
+      ]
+    },
+    "P9":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "outline": 0,
+          "width": 0.72,
+          "height": 0.78,
+          "radii": {
+            "bl": 0.05, 
+            "br": 0.05, 
+            "tl": 0.05, 
+            "tr": 0.05
+          }
+        }
+      ]
+    },
+    "G":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "outline": 0,
+          "width": 1.05,
+          "height": 1,
+          "radii": {
+            "bl": 0.05, 
+            "br": 0.05, 
+            "tl": 0.05, 
+            "tr": 0.05
+          }
+        }
+      ]
+    },
+    "G-big":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "outline": 0,
+          "width": 1.05,
+          "height": 2.4,
+          "radii": {
+            "bl": 0.05, 
+            "br": 0.05, 
+            "tl": 0.05, 
+            "tr": 0.05
+          }
+        }
+      ]
+    },
+    "long":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "outline": 0,
+          "width": 2.91,
+          "height": 0.55,
+          "radii": {
+            "bl": 0.05, 
+            "br": 0.05, 
+            "tl": 0.05, 
+            "tr": 0.05
+          }
+        }
+      ]
+    }
+  }
+}

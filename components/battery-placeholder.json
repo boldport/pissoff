@@ -1,0 +1,36 @@
+{
+"pins":
+  {
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+      ]
+    },
+    "assembly":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "layers": ["top"],
+          "width": 64,
+          "height": 37.5
+        },
+        {
+          "type": "rect",
+          "layers": ["top"],
+          "width": 5,
+          "height": 18.5,
+          "location": [-27,8]
+        }
+      ]
+    }
+  },
+  "pads":
+  {
+  }
+}

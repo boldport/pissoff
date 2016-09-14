@@ -1,0 +1,28 @@
+{
+"pins":
+  {
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+      ]
+    },
+    "assembly":
+    {
+      "shapes":
+      [
+        {
+          "type": "circle",
+          "layers": ["top"],
+          "diameter": 29.5
+        }
+      ]
+    }
+  },
+  "pads":
+  {
+  }
+}
