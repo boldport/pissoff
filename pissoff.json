@@ -36,8 +36,8 @@
         }
       }
     }, 
-    "C11": {
-      "footprint": "0805-cap", 
+    "R99": {
+      "footprint": "0805", 
       "layer": "top", 
       "location": [
         -31.904039, 
@@ -112,7 +112,7 @@
       "footprint": "0805-cap", 
       "layer": "top", 
       "location": [
-        -3.620807, 
+        -0.963797, 
         15.377311
       ], 
       "rotate": 0, 
@@ -150,8 +150,8 @@
       "footprint": "dual-nFET-SOT363", 
       "layer": "top", 
       "location": [
-        -20.051298, 
-        23.748314
+        4.890468, 
+        -13.284445
       ], 
       "rotate": 0, 
       "show": true
@@ -261,6 +261,42 @@
         }
       }
     }, 
+    "LED2": {
+      "footprint": "led-5mm", 
+      "layer": "top", 
+      "location": [
+        46.778101, 
+        -22.733153
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "LED3": {
+      "footprint": "led-5mm", 
+      "layer": "top", 
+      "location": [
+        46.426474, 
+        -14.142136
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
     "R1": {
       "footprint": "0805", 
       "layer": "top", 
@@ -285,6 +321,42 @@
       "location": [
         -21.097443, 
         18.461423
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R100": {
+      "footprint": "resistor-th", 
+      "layer": "top", 
+      "location": [
+        46.471355, 
+        -3.304237
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R119": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -21.028037, 
+        -9.313204
       ], 
       "rotate": 0, 
       "show": true, 
@@ -410,7 +482,97 @@
       "layer": "top", 
       "location": [
         -1.028037, 
-        -5.85024
+        -8.108015
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R191": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -1.028037, 
+        -25.85024
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R192": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -1.028037, 
+        -10.365794
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R193": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -21.028037, 
+        -11.638567
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R194": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -21.028037, 
+        -16.154118
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R195": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -21.028037, 
+        -13.896343
       ], 
       "rotate": 0, 
       "show": true, 
@@ -495,6 +657,24 @@
         }
       }
     }, 
+    "R219": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -1.028037, 
+        -5.85024
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
     "R22": {
       "footprint": "0805", 
       "layer": "top", 
@@ -567,6 +747,24 @@
         }
       }
     }, 
+    "R39": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -0.996839, 
+        18.138665
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
     "R4": {
       "footprint": "0805", 
       "layer": "top", 
@@ -607,8 +805,8 @@
       "footprint": "0805", 
       "layer": "top", 
       "location": [
-        -12.359125, 
-        11.428713
+        -12.127828, 
+        11.560882
       ], 
       "rotate": 0, 
       "show": true, 
