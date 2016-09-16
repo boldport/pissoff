@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:pcbmode="pcbmode"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg10250"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="shapes.svg">
+  <defs
+     id="defs10252" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="297.18272"
+     inkscape:cy="915.5553"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1885"
+     inkscape:window-height="1056"
+     inkscape:window-x="35"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata10255">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(3.5433071,0,0,3.5433071,269.67012,504.85953)"
+       style="fill:none;stroke:#555555;stroke-opacity:1"
+       pcbmode:type="module-shapes"
+       id="g4736">
+      <path
+         d="m -42.257778,0 0,-17 c 0,-1.656854 1.343146,-3 3,-3 L 0,-20 l 37,0 c 1.656854,0 3,1.343146 3,3 l 0,17 0,17 c 0,1.656854 -1.343146,3 -3,3 l -37,0 -39.257778,0 c -1.656854,0 -2.945018,-1.344059 -3,-3 z"
+         style="fill:none;stroke-width:0.05"
+         pcbmode:style="stroke"
+         id="path4738"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csscsscsscssc" />
+    </g>
+    <g
+       id="g10847"
+       pcbmode:type="module-shapes"
+       style="fill:none;stroke:#555555;stroke-opacity:1"
+       transform="matrix(3.5433071,0,0,3.5433071,226.67012,489.36461)">
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path10849"
+         pcbmode:style="stroke"
+         style="fill:none;stroke-width:0.05"
+         d="m 25.475555,-17 c 0,-1.656854 1.343146,-3 3,-3 L 37,-20 c 1.656854,0 3,1.343146 3,3 l 0,2.955556 c 0,1.656854 -1.343146,3 -3,3 l -8.524445,0 c -1.656854,0 -2.945018,-1.344059 -3,-3 z" />
+    </g>
+    <g
+       transform="matrix(3.5433071,0,0,3.5433071,226.67012,630.37477)"
+       style="fill:none;stroke:#555555;stroke-opacity:1"
+       pcbmode:type="module-shapes"
+       id="g10851">
+      <path
+         d="m 25.475555,-17 c 0,-1.656854 1.343146,-3 3,-3 L 37,-20 c 1.656854,0 3,1.343146 3,3 l 0,2.955556 c 0,1.656854 -1.343146,3 -3,3 l -8.524445,0 c -1.656854,0 -2.945018,-1.344059 -3,-3 z"
+         style="fill:none;stroke-width:0.05"
+         pcbmode:style="stroke"
+         id="path10853"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc" />
+    </g>
+    <g
+       transform="matrix(3.5433071,0,0,3.5433071,72.67012,489.36461)"
+       style="fill:none;stroke:#555555;stroke-opacity:1"
+       pcbmode:type="module-shapes"
+       id="g10855">
+      <path
+         d="m 25.475555,-17 c 0,-1.656854 1.343146,-3 3,-3 L 37,-20 c 1.656854,0 3,1.343146 3,3 l 0,2.955556 c 0,1.656854 -1.343146,3 -3,3 l -8.524445,0 c -1.656854,0 -2.945018,-1.344059 -3,-3 z"
+         style="fill:none;stroke-width:0.05"
+         pcbmode:style="stroke"
+         id="path10857"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc" />
+    </g>
+    <g
+       id="g10859"
+       pcbmode:type="module-shapes"
+       style="fill:none;stroke:#555555;stroke-opacity:1"
+       transform="matrix(3.5433071,0,0,3.5433071,72.67012,630.37477)">
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path10861"
+         pcbmode:style="stroke"
+         style="fill:none;stroke-width:0.05"
+         d="m 25.475555,-17 c 0,-1.656854 1.343146,-3 3,-3 L 37,-20 c 1.656854,0 3,1.343146 3,3 l 0,2.955556 c 0,1.656854 -1.343146,3 -3,3 l -8.524445,0 c -1.656854,0 -2.945018,-1.344059 -3,-3 z" />
+    </g>
+    <g
+       transform="matrix(0,3.5433071,-3.5433071,0,64.67012,388.85953)"
+       style="fill:none;stroke:#555555;stroke-opacity:1"
+       pcbmode:type="module-shapes"
+       id="g10863">
+      <path
+         d="m 25.475555,-17 c 0,-1.656854 1.343146,-3 3,-3 L 37,-20 c 1.656854,0 3,1.343146 3,3 l 0,2.955556 c 0,1.656854 -1.343146,3 -3,3 l -8.524445,0 c -1.656854,0 -2.945018,-1.344059 -3,-3 z"
+         style="fill:none;stroke-width:0.05"
+         pcbmode:style="stroke"
+         id="path10865"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc" />
+    </g>
+    <g
+       id="g10867"
+       pcbmode:type="module-shapes"
+       style="fill:none;stroke:#555555;stroke-opacity:1"
+       transform="matrix(3.5433071,0,0,3.5433071,573.67012,504.85953)">
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path10869"
+         pcbmode:style="stroke"
+         style="fill:none;stroke-width:0.05"
+         d="m -42.257778,-17 c 0,-1.656854 1.343146,-3 3,-3 25.419259,0 -11.25037,0 14.168889,0 1.656854,0 3,1.343146 3,3 0,11.3333333 0,22.6666667 0,34 0,1.656854 -1.343146,3 -3,3 -25.419259,0 11.25037,0 -14.168889,0 -1.656854,0 -2.945018,-1.344059 -3,-3 0,-11.3333333 0,-22.6666667 0,-34 z" />
+    </g>
+    <g
+       id="g10879"
+       pcbmode:type="module-shapes"
+       style="fill:none;stroke:#555555;stroke-opacity:1"
+       transform="matrix(0,3.5433071,-3.5433071,0,403.68028,328.23075)">
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path10881"
+         pcbmode:style="stroke"
+         style="fill:none;stroke-width:0.05"
+         d="m 25.475555,-17 c 0,-1.656854 1.343146,-3 3,-3 L 37,-20 c 1.656854,0 3,1.343146 3,3 l 0,2.955556 c 0,1.656854 -1.343146,3 -3,3 l -8.524445,0 c -1.656854,0 -2.945018,-1.344059 -3,-3 z" />
+    </g>
+    <g
+       transform="matrix(0,3.5433071,-3.5433071,0,403.68028,449.50863)"
+       style="fill:none;stroke:#555555;stroke-opacity:1"
+       pcbmode:type="module-shapes"
+       id="g10883">
+      <path
+         d="m 25.475555,-17 c 0,-1.656854 1.343146,-3 3,-3 L 37,-20 c 1.656854,0 3,1.343146 3,3 l 0,2.955556 c 0,1.656854 -1.343146,3 -3,3 l -8.524445,0 c -1.656854,0 -2.945018,-1.344059 -3,-3 z"
+         style="fill:none;stroke-width:0.05"
+         pcbmode:style="stroke"
+         id="path10885"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc" />
+    </g>
+    <g
+       id="g10887"
+       pcbmode:type="module-shapes"
+       style="fill:none;stroke:#555555;stroke-opacity:1"
+       transform="matrix(3.5433071,0,0,3.5433071,379.67012,587.85953)">
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path10889"
+         pcbmode:style="stroke"
+         style="fill:none;stroke-width:0.05"
+         d="m 25.475555,-17 c 0,-1.656854 1.343146,-3 3,-3 L 37,-20 c 1.656854,0 3,1.343146 3,3 l 0,2.955556 c 0,1.656854 -1.343146,3 -3,3 l -8.524445,0 c -1.656854,0 -2.945018,-1.344059 -3,-3 z" />
+    </g>
+    <g
+       transform="matrix(3.5433071,0,0,3.5433071,379.67012,531.85953)"
+       style="fill:none;stroke:#555555;stroke-opacity:1"
+       pcbmode:type="module-shapes"
+       id="g10891">
+      <path
+         d="m 25.475555,-17 c 0,-1.656854 1.343146,-3 3,-3 L 37,-20 c 1.656854,0 3,1.343146 3,3 l 0,2.955556 c 0,1.656854 -1.343146,3 -3,3 l -8.524445,0 c -1.656854,0 -2.945018,-1.344059 -3,-3 z"
+         style="fill:none;stroke-width:0.05"
+         pcbmode:style="stroke"
+         id="path10893"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc" />
+    </g>
+    <path
+       style="fill:none;stroke:#555555;stroke-width:0.17716536;stroke-opacity:1"
+       d="m 173.56836,198.49805 c -5.87075,0 -10.63086,4.76012 -10.63086,10.63086 l 0,4.86523 -32.36914,0 c -5.87075,0 -10.63086,4.75817 -10.63086,10.62891 l 0,34.5039 -5.50391,0 c -5.86751,0.19482 -10.6289,4.76011 -10.6289,10.63086 l 0,30.20313 c 0,5.87075 4.75816,10.63086 10.6289,10.63086 l 5.50391,0 0,34.5039 c 0.19481,5.86751 4.76011,10.63086 10.63086,10.63086 l 32.36914,0 0,4.88477 c 0.19482,5.86751 4.76011,10.6289 10.63086,10.6289 l 30.20508,0 c 5.87075,0 10.6289,-4.75816 10.6289,-10.6289 l 0,-4.88477 55.26758,0 47.26758,0 0,4.88477 c 0.19482,5.86751 4.76011,10.6289 10.63086,10.6289 l 30.20508,0 c 5.87075,0 10.6289,-4.75816 10.6289,-10.6289 l 0,-4.88477 32.3711,0 c 5.87075,0 10.6289,-4.76012 10.6289,-10.63086 l 0,-60.23632 0,-60.23633 c 0,-5.87074 -4.75815,-10.62891 -10.6289,-10.62891 l -32.3711,0 0,-4.86523 c 0,-5.87074 -4.75815,-10.63086 -10.6289,-10.63086 l -30.20508,0 c -5.87075,0 -10.63086,4.76012 -10.63086,10.63086 l 0,4.86523 -47.26758,0 -55.26758,0 0,-4.86523 c 0,-5.87074 -4.75815,-10.63086 -10.6289,-10.63086 l -30.20508,0 z m 279.875,0 c -5.86751,0.19482 -10.62891,4.76011 -10.62891,10.63086 l 0,4.86523 -8.24609,0 c -5.87075,0 -10.63086,4.75817 -10.63086,10.62891 l 0,120.47265 c 0.19481,5.86751 4.76011,10.63086 10.63086,10.63086 l 8.24609,0 0,4.88477 c 0,5.87075 4.75817,10.6289 10.62891,10.6289 l 10.47266,0 c 5.87074,0 10.63086,-4.75815 10.63086,-10.6289 l 0,-4.88477 10.22656,0 c 5.87074,0 10.6289,-4.76012 10.6289,-10.63086 l 0,-16.36914 15.3711,0 c 5.87075,0 10.6289,-4.76012 10.6289,-10.63086 l 0,-10.47265 c 0,-5.87074 -4.75815,-10.62891 -10.6289,-10.62891 l -15.3711,0 0,-24.26758 15.3711,0 c 5.87075,0 10.6289,-4.76012 10.6289,-10.63086 l 0,-10.47265 c 0,-5.87074 -4.75815,-10.62891 -10.6289,-10.62891 l -15.3711,0 0,-16.37109 c 0,-5.87074 -4.75816,-10.62891 -10.6289,-10.62891 l -10.22656,0 0,-4.86523 c -10e-6,-5.87075 -4.76012,-10.63086 -10.63086,-10.63086 l -10.47266,0 z"
+       id="path10961"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path15751"
+       pcbmode:style="stroke"
+       style="fill:none;stroke:#555555;stroke-width:0.17716536;stroke-opacity:1"
+       d="m 240.4945,94.832139 c -1.62136,0 -2.936,1.31199 -2.936,2.9301 l 0,1.34097 -8.93961,0 c -1.62136,0 -2.936,1.311451 -2.936,2.929561 l 0,9.51005 -1.52005,0 c -1.62047,0.0537 -2.93546,1.312 -2.93546,2.93011 l 0,8.32466 c 0,1.61811 1.3141,2.9301 2.93546,2.9301 l 1.52005,0 0,9.51006 c 0.0538,1.61721 1.31464,2.9301 2.936,2.9301 l 8.93961,0 0,1.34635 c 0.0538,1.61722 1.31464,2.92957 2.936,2.92957 l 8.34195,0 c 1.62136,0 2.93545,-1.31146 2.93545,-2.92957 l 0,-1.34635 15.26364,0 13.05421,0 0,1.34635 c 0.0538,1.61722 1.31463,2.92957 2.936,2.92957 l 8.34194,0 c 1.62137,0 2.93546,-1.31146 2.93546,-2.92957 l 0,-1.34635 8.94015,0 c 1.62137,0 2.93546,-1.31199 2.93546,-2.9301 l 0,-16.60249 0,-16.60249 c 0,-1.61811 -1.31409,-2.929561 -2.93546,-2.929561 l -8.94015,0 0,-1.34097 c 0,-1.61811 -1.31409,-2.9301 -2.93546,-2.9301 l -8.34194,0 c -1.62137,0 -2.936,1.31199 -2.936,2.9301 l 0,1.34097 -13.05421,0 -15.26364,0 0,-1.34097 c 0,-1.61811 -1.31409,-2.9301 -2.93545,-2.9301 l -8.34195,0 z m 77.29502,0 c -1.62048,0.0537 -2.93546,1.31199 -2.93546,2.9301 l 0,1.34097 -2.27738,0 c -1.62137,0 -2.936,1.311451 -2.936,2.929561 l 0,33.20498 c 0.0538,1.61721 1.31463,2.9301 2.936,2.9301 l 2.27738,0 0,1.34635 c 0,1.61811 1.3141,2.92957 2.93546,2.92957 l 2.8923,0 c 1.62137,0 2.936,-1.31146 2.936,-2.92957 l 0,-1.34635 2.82434,0 c 1.62137,0 2.93546,-1.31199 2.93546,-2.9301 l 0,-4.51171 4.24514,0 c 1.62137,0 2.93546,-1.31199 2.93546,-2.9301 l 0,-2.8865 c 0,-1.61811 -1.31409,-2.92957 -2.93546,-2.92957 l -4.24514,0 0,-6.68869 4.24514,0 c 1.62137,0 2.93546,-1.31199 2.93546,-2.9301 l 0,-2.8865 c 0,-1.61811 -1.31409,-2.92957 -2.93546,-2.92957 l -4.24514,0 0,-4.51224 c 0,-1.61811 -1.3141,-2.929561 -2.93546,-2.929561 l -2.82434,0 0,-1.34097 c 0,-1.61811 -1.31463,-2.9301 -2.936,-2.9301 l -2.8923,0 z" />
+  </g>
+</svg>
