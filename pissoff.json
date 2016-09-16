@@ -5,7 +5,7 @@
       "layer": "bottom", 
       "location": [
         0.281745, 
-        2.412093
+        0.154315
       ], 
       "rotate": 180, 
       "show": true, 
@@ -20,148 +20,10 @@
     }, 
     "C1": {
       "footprint": "0805-cap", 
-      "layer": "bottom", 
-      "location": [
-        -109.41556, 
-        0
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -2.96223, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R99": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -31.904039, 
-        6.395308
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -5.784451, 
-            0
-          ]
-        }
-      }
-    }, 
-    "C13": {
-      "footprint": "0805-cap", 
-      "layer": "top", 
-      "location": [
-        -31.85731, 
-        14.94671
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -5.784451, 
-            0
-          ]
-        }
-      }
-    }, 
-    "C7": {
-      "footprint": "0805-cap", 
       "layer": "top", 
       "location": [
         -21.08238, 
-        16.40134
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -5.784451, 
-            0
-          ]
-        }
-      }
-    }, 
-    "C8": {
-      "footprint": "0805-cap", 
-      "layer": "top", 
-      "location": [
-        -21.129109, 
-        14.391994
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -5.784451, 
-            0
-          ]
-        }
-      }
-    }, 
-    "C9": {
-      "footprint": "0805-cap", 
-      "layer": "top", 
-      "location": [
-        -0.963797, 
-        15.377311
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -5.784451, 
-            0
-          ]
-        }
-      }
-    }, 
-    "IC1": {
-      "footprint": "MKE04Z8VWJ4-SOIC20", 
-      "layer": "top", 
-      "location": [
-        -12.257776, 
-        1.587401
-      ], 
-      "rotate": 180, 
-      "show": true
-    }, 
-    "IC2": {
-      "footprint": "TPA301D-SOIC8", 
-      "layer": "top", 
-      "location": [
-        -12.257776, 
-        15.921447
-      ], 
-      "rotate": 0, 
-      "show": true
-    }, 
-    "IC3": {
-      "footprint": "dual-nFET-SOT363", 
-      "layer": "top", 
-      "location": [
-        4.890468, 
-        -13.284445
-      ], 
-      "rotate": 0, 
-      "show": true
-    }, 
-    "J1": {
-      "footprint": "microSD-molex-105162-001", 
-      "layer": "top", 
-      "location": [
-        -12.257776, 
-        -17.728305
+        15.601365
       ], 
       "rotate": 0, 
       "show": true, 
@@ -174,7 +36,137 @@
         }
       }
     }, 
-    "J3": {
+    "C2": {
+      "footprint": "0805-cap", 
+      "layer": "top", 
+      "location": [
+        -1.086105, 
+        15.601365
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "C3": {
+      "footprint": "0805-cap", 
+      "layer": "top", 
+      "location": [
+        -31.85731, 
+        18.138665
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "C4": {
+      "footprint": "0805-cap", 
+      "layer": "top", 
+      "location": [
+        -21.129109, 
+        13.064063
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "C5": {
+      "footprint": "0805-cap", 
+      "layer": "top", 
+      "location": [
+        -1.054628, 
+        -14.846277
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "IC1": {
+      "footprint": "TPA301D-SOIC8", 
+      "layer": "top", 
+      "location": [
+        -12.257776, 
+        15.921447
+      ], 
+      "rotate": 0, 
+      "show": true
+    }, 
+    "IC2": {
+      "footprint": "MKE04Z8VWJ4-SOIC20", 
+      "layer": "top", 
+      "location": [
+        -12.257776, 
+        1.587401
+      ], 
+      "rotate": 180, 
+      "show": true
+    }, 
+    "IC3": {
+      "footprint": "LDO-fixed-TSOT-23-5", 
+      "layer": "top", 
+      "location": [
+        -35.35014, 
+        -0.022409
+      ], 
+      "rotate": 0, 
+      "show": true
+    }, 
+    "IC4": {
+      "footprint": "dual-nFET-SOT363", 
+      "layer": "top", 
+      "location": [
+        4.890468, 
+        -13.284445
+      ], 
+      "rotate": 0, 
+      "show": true
+    }, 
+    "J1": {
+      "footprint": "1x4-2p54-stag", 
+      "layer": "top", 
+      "location": [
+        18.048892, 
+        20
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "J2": {
       "footprint": "1x6-2p54-stag", 
       "layer": "top", 
       "location": [
@@ -182,6 +174,24 @@
         10.724445
       ], 
       "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "J3": {
+      "footprint": "solder-blob-jumper", 
+      "layer": "bottom", 
+      "location": [
+        -64.260012, 
+        -16.933333
+      ], 
+      "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -210,12 +220,12 @@
         }
       }
     }, 
-    "J6": {
-      "footprint": "1x4-2p54-stag", 
+    "J5": {
+      "footprint": "microSD-molex-105162-001", 
       "layer": "top", 
       "location": [
-        18.048892, 
-        20
+        -12.257776, 
+        -17.728305
       ], 
       "rotate": 0, 
       "show": true, 
@@ -228,7 +238,7 @@
         }
       }
     }, 
-    "J7": {
+    "J6": {
       "footprint": "1x4-2p54-stag", 
       "layer": "top", 
       "location": [
@@ -254,7 +264,7 @@
         8.064444
       ], 
       "rotate": 0, 
-      "show": true, 
+      "show": false, 
       "silkscreen": {
         "refdef": {
           "show": false
@@ -262,24 +272,6 @@
       }
     }, 
     "LED2": {
-      "footprint": "led-5mm", 
-      "layer": "top", 
-      "location": [
-        46.778101, 
-        -22.733153
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ]
-        }
-      }
-    }, 
-    "LED3": {
       "footprint": "led-5mm", 
       "layer": "top", 
       "location": [
@@ -297,30 +289,12 @@
         }
       }
     }, 
-    "R1": {
-      "footprint": "0805", 
+    "LED3": {
+      "footprint": "led-5mm", 
       "layer": "top", 
       "location": [
-        -25.974426, 
-        10.688025
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -5.784451, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R10": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -21.097443, 
-        18.461423
+        46.778101, 
+        -22.733153
       ], 
       "rotate": 0, 
       "show": true, 
@@ -333,7 +307,241 @@
         }
       }
     }, 
-    "R100": {
+    "R1": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -21.097443, 
+        18.139324
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R10": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -25.974426, 
+        10.526758
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R11": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -1.086105, 
+        10.527418
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R12": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -25.951062, 
+        7.989454
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R13": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -31.904039, 
+        10.526758
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R14": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -1.086105, 
+        7.990113
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R15": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -25.917421, 
+        5.45281
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R16": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -31.904039, 
+        7.989503
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R17": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -1.086105, 
+        5.45281
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R18": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -1.086105, 
+        2.914847
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R19": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -1.086105, 
+        0.377594
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R2": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -1.086105, 
+        18.138665
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R20": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -1.086105, 
+        -2.159758
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R21": {
       "footprint": "resistor-th", 
       "layer": "top", 
       "location": [
@@ -351,343 +559,19 @@
         }
       }
     }, 
-    "R119": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -21.028037, 
-        -9.313204
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -5.784451, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R12": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -31.904039, 
-        8.59157
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -5.784451, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R14": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -26.017717, 
-        13.489024
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -5.784451, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R15": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -26.083801, 
-        15.581295
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -5.784451, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R16": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -26.116844, 
-        17.706609
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -5.784451, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R17": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -31.898871, 
-        12.926872
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -5.784451, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R18": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -31.805413, 
-        10.730611
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -5.784451, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R19": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -1.028037, 
-        -8.108015
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -5.784451, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R191": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -1.028037, 
-        -25.85024
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -5.784451, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R192": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -1.028037, 
-        -10.365794
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -5.784451, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R193": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -21.028037, 
-        -11.638567
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -5.784451, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R194": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -21.028037, 
-        -16.154118
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -5.784451, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R195": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -21.028037, 
-        -13.896343
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -5.784451, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R2": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -25.951062, 
-        8.613469
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -5.784451, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R20": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -1.074766, 
-        -3.700703
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -5.784451, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R200": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -1.086105, 
-        8.680175
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -5.784451, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R21": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -1.086105, 
-        -1.657261
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -5.784451, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R219": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -1.028037, 
-        -5.85024
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -5.784451, 
-            0
-          ]
-        }
-      }
-    }, 
     "R22": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
         -1.086105, 
-        0.410226
+        -4.697063
       ], 
       "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
           "location": [
-            -5.784451, 
+            0, 
             0
           ]
         }
@@ -698,14 +582,14 @@
       "layer": "top", 
       "location": [
         -1.086105, 
-        2.477714
+        -7.234366
       ], 
       "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
           "location": [
-            -5.784451, 
+            0, 
             0
           ]
         }
@@ -716,7 +600,25 @@
       "layer": "top", 
       "location": [
         -1.086105, 
-        4.545202
+        -9.77167
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R25": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -21.028037, 
+        -9.77167
       ], 
       "rotate": 0, 
       "show": true, 
@@ -724,6 +626,78 @@
         "refdef": {
           "location": [
             -5.784451, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R26": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -1.086105, 
+        -12.308973
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R27": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -21.028037, 
+        -12.308973
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R28": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -21.028037, 
+        -14.846277
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R29": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -21.028037, 
+        -17.38358
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
             0
           ]
         }
@@ -733,25 +707,7 @@
       "footprint": "0805", 
       "layer": "top", 
       "location": [
-        -1.086105, 
-        10.747663
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -5.784451, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R39": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -0.996839, 
+        -26.116844, 
         18.138665
       ], 
       "rotate": 0, 
@@ -759,7 +715,25 @@
       "silkscreen": {
         "refdef": {
           "location": [
-            -5.784451, 
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R30": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -1.086105, 
+        -17.38358
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
             0
           ]
         }
@@ -769,15 +743,15 @@
       "footprint": "0805", 
       "layer": "top", 
       "location": [
-        -1.086105, 
-        6.613347
+        -26.083801, 
+        15.602022
       ], 
       "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
           "location": [
-            -5.784451, 
+            0, 
             0
           ]
         }
@@ -787,15 +761,15 @@
       "footprint": "0805", 
       "layer": "top", 
       "location": [
-        -25.917421, 
-        6.542056
+        -26.017717, 
+        13.06472
       ], 
       "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
           "location": [
-            -5.784451, 
+            0, 
             0
           ]
         }
@@ -805,15 +779,69 @@
       "footprint": "0805", 
       "layer": "top", 
       "location": [
-        -12.127828, 
-        11.560882
+        -31.898871, 
+        15.601412
       ], 
       "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
           "location": [
-            -5.784451, 
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R7": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -12.127828, 
+        10.527418
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R8": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -1.086105, 
+        13.064063
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R9": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -31.805413, 
+        13.06411
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
             0
           ]
         }
