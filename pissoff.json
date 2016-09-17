@@ -5,7 +5,7 @@
       "layer": "bottom", 
       "location": [
         -9.313811, 
-        0.154315
+        2.412093
       ], 
       "rotate": 180, 
       "show": true, 
@@ -22,8 +22,8 @@
       "footprint": "0805-cap", 
       "layer": "top", 
       "location": [
-        -31.806824, 
-        15.601365
+        -37.766265, 
+        18.038885
       ], 
       "rotate": 0, 
       "show": true, 
@@ -40,26 +40,8 @@
       "footprint": "0805-cap", 
       "layer": "top", 
       "location": [
-        -10.681661, 
-        15.601365
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ]
-        }
-      }
-    }, 
-    "C3": {
-      "footprint": "0805-cap", 
-      "layer": "top", 
-      "location": [
         -43.710642, 
-        18.138665
+        18.038885
       ], 
       "rotate": 0, 
       "show": true, 
@@ -72,12 +54,30 @@
         }
       }
     }, 
+    "C3": {
+      "footprint": "0805-cap", 
+      "layer": "top", 
+      "location": [
+        -10.681661, 
+        15.401805
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
     "C4": {
       "footprint": "0805-cap", 
       "layer": "top", 
       "location": [
-        -31.853553, 
-        13.064063
+        -31.806824, 
+        15.501585
       ], 
       "rotate": 0, 
       "show": true, 
@@ -94,44 +94,8 @@
       "footprint": "0805-cap", 
       "layer": "top", 
       "location": [
-        -10.650184, 
-        -14.846277
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ]
-        }
-      }
-    }, 
-    "C51": {
-      "footprint": "0805-cap", 
-      "layer": "top", 
-      "location": [
-        -43.757371, 
-        0.747663
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ]
-        }
-      }
-    }, 
-    "C55": {
-      "footprint": "0805-cap", 
-      "layer": "top", 
-      "location": [
         -10.681661, 
-        -9.77167
+        -4.896624
       ], 
       "rotate": 0, 
       "show": true, 
@@ -144,30 +108,12 @@
         }
       }
     }, 
-    "C61": {
-      "footprint": "0805-cap", 
-      "layer": "top", 
-      "location": [
-        -91.56261, 
-        -3.442144
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ]
-        }
-      }
-    }, 
-    "C71": {
+    "C6": {
       "footprint": "0805-cap", 
       "layer": "top", 
       "location": [
         -43.757371, 
-        -1.635513
+        -4.896624
       ], 
       "rotate": 0, 
       "show": true, 
@@ -180,12 +126,48 @@
         }
       }
     }, 
-    "C81": {
+    "C7": {
       "footprint": "0805-cap", 
       "layer": "top", 
       "location": [
-        -92.403731, 
-        5.389631
+        -43.757371, 
+        -15.045836
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "C8": {
+      "footprint": "0805-cap", 
+      "layer": "top", 
+      "location": [
+        -47.818165, 
+        -35.756591
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "C9": {
+      "footprint": "0805-cap", 
+      "layer": "top", 
+      "location": [
+        -48.024286, 
+        -37.860928
       ], 
       "rotate": 0, 
       "show": true, 
@@ -222,18 +204,18 @@
       "footprint": "LDO-fixed-TSOT-23-5", 
       "layer": "top", 
       "location": [
-        -47.767916, 
-        -0.022409
+        -43.926362, 
+        -9.971231
       ], 
       "rotate": 0, 
       "show": true
     }, 
     "IC4": {
-      "footprint": "dual-nFET-SOT363", 
+      "footprint": "SOT23-nFET", 
       "layer": "top", 
       "location": [
         -4.705088, 
-        -13.284445
+        -15.045836
       ], 
       "rotate": 0, 
       "show": true
@@ -242,8 +224,26 @@
       "footprint": "1x4-2p54-stag", 
       "layer": "top", 
       "location": [
-        8.172962, 
-        21.128888
+        -34.193875, 
+        21.7
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "J10": {
+      "footprint": "1x4-2p54-stag", 
+      "layer": "top", 
+      "location": [
+        -34.193875, 
+        -21.7
       ], 
       "rotate": 0, 
       "show": true, 
@@ -257,10 +257,28 @@
       }
     }, 
     "J2": {
+      "footprint": "1x4-2p54-stag", 
+      "layer": "top", 
+      "location": [
+        8.172962, 
+        21.7
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "J3": {
       "footprint": "1x6-2p54-stag", 
       "layer": "top", 
       "location": [
-        -49.351108, 
+        -51.04444, 
         10.724445
       ], 
       "rotate": 90, 
@@ -274,12 +292,12 @@
         }
       }
     }, 
-    "J3": {
+    "J4": {
       "footprint": "solder-blob-jumper", 
-      "layer": "bottom", 
+      "layer": "top", 
       "location": [
-        -91.27707, 
-        -17.197672
+        -43.710642, 
+        2.535591
       ], 
       "rotate": 0, 
       "show": true, 
@@ -292,7 +310,7 @@
         }
       }
     }, 
-    "J33": {
+    "J5": {
       "footprint": "interface-holes", 
       "layer": "top", 
       "location": [
@@ -310,11 +328,11 @@
         }
       }
     }, 
-    "J34": {
-      "footprint": "interface-holes", 
+    "J6": {
+      "footprint": "interface-holes-main-board", 
       "layer": "top", 
       "location": [
-        24.600004, 
+        24.6, 
         0
       ], 
       "rotate": 0, 
@@ -328,11 +346,11 @@
         }
       }
     }, 
-    "J4": {
+    "J7": {
       "footprint": "1x6-2p54-stag", 
       "layer": "top", 
       "location": [
-        -49.351108, 
+        -51.04444, 
         -10.724445
       ], 
       "rotate": 90, 
@@ -346,7 +364,7 @@
         }
       }
     }, 
-    "J5": {
+    "J8": {
       "footprint": "microSD-molex-105162-001", 
       "layer": "top", 
       "location": [
@@ -364,12 +382,12 @@
         }
       }
     }, 
-    "J6": {
+    "J9": {
       "footprint": "1x4-2p54-stag", 
       "layer": "top", 
       "location": [
         8.172962, 
-        -21.128888
+        -21.7
       ], 
       "rotate": 0, 
       "show": true, 
@@ -383,21 +401,6 @@
       }
     }, 
     "LED1": {
-      "footprint": "led-1206", 
-      "layer": "bottom", 
-      "location": [
-        -118.74665, 
-        8.064444
-      ], 
-      "rotate": 0, 
-      "show": false, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "LED2": {
       "footprint": "led-5mm", 
       "layer": "top", 
       "location": [
@@ -415,7 +418,7 @@
         }
       }
     }, 
-    "LED3": {
+    "LED2": {
       "footprint": "led-5mm", 
       "layer": "top", 
       "location": [
@@ -433,12 +436,30 @@
         }
       }
     }, 
+    "LED3": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -10.681661, 
+        -17.94
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
     "R1": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
         -31.821886, 
-        18.139324
+        18.038885
       ], 
       "rotate": 0, 
       "show": true, 
@@ -456,7 +477,7 @@
       "layer": "top", 
       "location": [
         -37.766265, 
-        10.526758
+        10.426978
       ], 
       "rotate": 0, 
       "show": true, 
@@ -473,44 +494,8 @@
       "footprint": "0805", 
       "layer": "top", 
       "location": [
-        -10.681661, 
-        10.527418
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R12": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -37.766265, 
-        7.989454
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            2.964601, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R13": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
         -43.710642, 
-        10.526758
+        10.426978
       ], 
       "rotate": 0, 
       "show": true, 
@@ -523,12 +508,12 @@
         }
       }
     }, 
-    "R14": {
+    "R12": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
         -10.681661, 
-        7.990113
+        10.327194
       ], 
       "rotate": 0, 
       "show": true, 
@@ -541,133 +526,7 @@
         }
       }
     }, 
-    "R15": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -37.766265, 
-        5.45281
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            2.962404, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R16": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -43.710642, 
-        7.989503
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            3.01284, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R17": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -10.681661, 
-        5.45281
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R18": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -10.681661, 
-        2.914847
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R19": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -10.681661, 
-        0.377594
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R2": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -10.681661, 
-        18.138665
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R20": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -10.681661, 
-        -2.159758
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R21": {
+    "R13": {
       "footprint": "resistor-th", 
       "layer": "top", 
       "location": [
@@ -685,12 +544,174 @@
         }
       }
     }, 
+    "R14": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -10.681661, 
+        7.790551
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R15": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -43.710642, 
+        7.890331
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            3.01284, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R16": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -37.766265, 
+        7.889721
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            2.964601, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R17": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -10.681661, 
+        5.252591
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R18": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -10.681661, 
+        2.715333
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R19": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -10.681661, 
+        0.177983
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R2": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -10.681661, 
+        17.94
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R20": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -10.681661, 
+        -2.359322
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R21": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -10.681661, 
+        -7.433928
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
     "R22": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
         -10.681661, 
-        -4.697063
+        -9.971232
       ], 
       "rotate": 0, 
       "show": true, 
@@ -707,8 +728,26 @@
       "footprint": "0805", 
       "layer": "top", 
       "location": [
+        24.349311, 
+        -12.450085
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R24": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
         -10.681661, 
-        -7.234366
+        -12.508534
       ], 
       "rotate": 0, 
       "show": true, 
@@ -725,8 +764,8 @@
       "footprint": "0805", 
       "layer": "top", 
       "location": [
-        -31.847599, 
-        -9.77167
+        -10.650184, 
+        -15.045836
       ], 
       "rotate": 0, 
       "show": true, 
@@ -743,8 +782,8 @@
       "footprint": "0805", 
       "layer": "top", 
       "location": [
-        -10.681661, 
-        -12.308973
+        24.349311, 
+        -14.987389
       ], 
       "rotate": 0, 
       "show": true, 
@@ -761,8 +800,8 @@
       "footprint": "0805", 
       "layer": "top", 
       "location": [
-        -31.847599, 
-        -12.308973
+        24.349311, 
+        -17.524692
       ], 
       "rotate": 0, 
       "show": true, 
@@ -779,8 +818,8 @@
       "footprint": "0805", 
       "layer": "top", 
       "location": [
-        -31.847599, 
-        -14.846277
+        -48.742834, 
+        -30.58298
       ], 
       "rotate": 0, 
       "show": true, 
@@ -797,26 +836,8 @@
       "footprint": "0805", 
       "layer": "top", 
       "location": [
-        -31.847599, 
-        -17.38358
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R3": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -37.766265, 
-        18.138665
+        -48.475101, 
+        -33.49118
       ], 
       "rotate": 0, 
       "show": true, 
@@ -829,30 +850,12 @@
         }
       }
     }, 
-    "R30": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -10.681661, 
-        -17.38358
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R4": {
+    "R3": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
         -37.766265, 
-        15.602022
+        15.502242
       ], 
       "rotate": 0, 
       "show": true, 
@@ -865,30 +868,12 @@
         }
       }
     }, 
-    "R5": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -37.766265, 
-        13.06472
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            2.587404, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R6": {
+    "R4": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
         -43.710642, 
-        15.601412
+        15.501632
       ], 
       "rotate": 0, 
       "show": true, 
@@ -901,12 +886,12 @@
         }
       }
     }, 
-    "R7": {
+    "R5": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
         -31.853553, 
-        10.527417
+        12.96494
       ], 
       "rotate": 0, 
       "show": true, 
@@ -919,12 +904,48 @@
         }
       }
     }, 
+    "R6": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -37.766265, 
+        12.96494
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            2.587404, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R7": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -43.710642, 
+        12.96433
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            2.636009, 
+            0
+          ]
+        }
+      }
+    }, 
     "R8": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
         -10.681661, 
-        13.064063
+        12.864549
       ], 
       "rotate": 0, 
       "show": true, 
@@ -941,15 +962,15 @@
       "footprint": "0805", 
       "layer": "top", 
       "location": [
-        -43.710642, 
-        13.06411
+        -31.853553, 
+        10.427637
       ], 
       "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
           "location": [
-            2.636009, 
+            2.962404, 
             0
           ]
         }
@@ -989,7 +1010,7 @@
       "drill": 0.4, 
       "outline": 0.4, 
       "pad": 0.25, 
-      "route": 0.4
+      "route": 0.25
     }, 
     "soldermask": {
       "circle-buffer": 0.05, 
@@ -1077,7 +1098,17 @@
       "width": 80
     }
   }, 
-  "shapes": {}, 
+  "shapes": {
+    "POURS": {
+      "footprint": "pours", 
+      "layer": "top", 
+      "location": [
+        0, 
+        0
+      ], 
+      "show": true
+    }
+  }, 
   "soldermask": {
     "circle-buffer": 0.05, 
     "path-scale": 1.05, 
