@@ -968,9 +968,9 @@
   "distances": {
     "from-pour-to": {
       "drill": 0.4, 
-      "outline": 0.4, 
-      "pad": 0.25, 
-      "route": 0.25
+      "outline": 0.3, 
+      "pad": 0.2, 
+      "route": 0.2
     }, 
     "soldermask": {
       "circle-buffer": 0.05, 
@@ -1066,6 +1066,16 @@
         0, 
         0
       ], 
+      "show": true
+    },
+    "LUCKY": {
+      "footprint": "lucky-resistor-logo", 
+      "layer": "top", 
+      "location": [
+        -100, 
+        0
+      ],
+      "scale": 0.3,
       "show": true
     }
   }, 
