@@ -224,8 +224,8 @@
     "refdef":
     {
       "font-family": "UbuntuMono-R-webfont",
-      "font-size": "1.5mm",
-      "line-height": "1.5mm",
+      "font-size": "1.3mm",
+      "line-height": "1.3mm",
       "letter-spacing": "0mm"
     },
     "text":
