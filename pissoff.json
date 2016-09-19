@@ -335,6 +335,7 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
+          "rotate": -90, 
           "location": [
             8.466667, 
             -0.0
@@ -354,8 +355,8 @@
       "silkscreen": {
         "refdef": {
           "location": [
-            0, 
-            -2.257778
+            -2.257778,
+            0
           ]
         }
       }
@@ -407,6 +408,7 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
+          "rotate": -90, 
           "location": [
             -8.523839, 
             0.0
@@ -1059,6 +1061,16 @@
     }
   }, 
   "shapes": {
+    "LUCKY": {
+      "footprint": "lucky-resistor-logo", 
+      "layer": "top", 
+      "location": [
+        -100, 
+        0
+      ], 
+      "scale": 0.3, 
+      "show": true
+    }, 
     "POURS": {
       "footprint": "pours", 
       "layer": "top", 
@@ -1067,15 +1079,25 @@
         0
       ], 
       "show": true
-    },
-    "LUCKY": {
-      "footprint": "lucky-resistor-logo", 
+    }, 
+    "PWR-LGND": {
+      "footprint": "power-header-legend", 
       "layer": "top", 
       "location": [
-        -100, 
-        0
-      ],
-      "scale": 0.3,
+        -47.8376, 
+        -10.724445
+      ], 
+      "scale": 1, 
+      "show": true
+    }, 
+    "UART-LGND": {
+      "footprint": "uart-header-legend", 
+      "layer": "top", 
+      "location": [
+        -48.20852, 
+        9.334595
+      ], 
+      "scale": 1, 
       "show": true
     }
   }, 
