@@ -1,6 +1,14 @@
 {
 "pins":
   {
+  "STAY":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [0, 0]
+      }
+    }
   },
   "layout":
   {
@@ -17,12 +25,25 @@
         {
           "type": "circle",
           "layers": ["top"],
-          "diameter": 29.5
+          "diameter": 29
         }
       ]
     }
   },
   "pads":
   {
+    "pad":
+    {
+      "shapes":
+      [
+        {
+          "type": "circle",
+          "style": "fill",
+          "diameter": 18,
+          "soldermask": {},
+          "buffer-to-pour": 1
+        }
+      ]      
+    }
   }
 }
