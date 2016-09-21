@@ -1,0 +1,25 @@
+{
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "font-family": "UbuntuMono-R-webfont", 
+          "font-size": "2.0mm", 
+          "letter-spacing": "0mm", 
+          "line-height": "2mm", 
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "style": "fill", 
+          "type": "text", 
+          "value": "PissOff, a Boldport Club production\nbased on a design by Lucky Resistor"
+        }
+      ]
+    }
+  }  
+}
