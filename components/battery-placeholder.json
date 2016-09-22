@@ -8,6 +8,21 @@
     {
       "shapes":
       [
+        {
+          "font-family": "UbuntuMono-R-webfont", 
+          "font-size": "2.5mm",
+          "layers": ["bottom"],
+          "letter-spacing": "0mm", 
+          "line-height": "2.54mm", 
+          "location": [
+            -23, 
+            -6.35
+          ], 
+          "rotate": 90, 
+          "style": "fill", 
+          "type": "text", 
+          "value": "OFF          ON"
+        }
       ]
     },
     "assembly":
@@ -23,9 +38,9 @@
         {
           "type": "rect",
           "layers": ["top"],
-          "width": 6,
-          "height": 13,
-          "location": [-25.75,6.5]
+          "width": 5.5,
+          "height": 9,
+          "location": [-25.25,-7]
         }
       ]
     }
