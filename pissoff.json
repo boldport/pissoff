@@ -458,24 +458,6 @@
         }
       }
     }, 
-    "R1": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -7.016676, 
-        17.939996
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -3.204392, 
-            0
-          ]
-        }
-      }
-    }, 
     "R10": {
       "footprint": "0805", 
       "layer": "top", 
