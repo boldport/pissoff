@@ -263,7 +263,7 @@
       "layer": "top", 
       "location": [
         -1.040103, 
-        -15.377143
+        -14.812699
       ], 
       "rotate": 0, 
       "show": true, 
@@ -308,6 +308,24 @@
           "location": [
             6.269527, 
             1.693332
+          ]
+        }
+      }
+    }, 
+    "J11": {
+      "footprint": "1x9-2p54mm-smd", 
+      "layer": "bottom", 
+      "location": [
+        -16.995813, 
+        -15.799458
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
           ]
         }
       }
@@ -427,7 +445,7 @@
       "layer": "top", 
       "location": [
         -18.188349, 
-        -17.728305
+        -16.034973
       ], 
       "rotate": 0, 
       "show": true, 
@@ -846,6 +864,24 @@
         "refdef": {
           "location": [
             2.529006, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R53": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -1.040103, 
+        -17.94
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -3.205661, 
             0
           ]
         }
