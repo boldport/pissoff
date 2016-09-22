@@ -15,7 +15,7 @@
       "layout": 
       {
         "pad": "pad", 
-        "location": [3.53,0.5]
+        "location": [3.53,0.25]
       }
     },
   "2":
@@ -23,7 +23,7 @@
       "layout": 
       {
         "pad": "pad", 
-        "location": [2.43,0.5]
+        "location": [2.43,0.25]
       }
     },
   "3":
@@ -31,7 +31,7 @@
       "layout": 
       {
         "pad": "pad", 
-        "location": [1.33,0.5]
+        "location": [1.33,0.25]
       }
     },
   "4":
@@ -39,7 +39,7 @@
       "layout": 
       {
         "pad": "pad", 
-        "location": [0.23,0.5]
+        "location": [0.23,0.25]
       }
     },
   "5":
@@ -47,7 +47,7 @@
       "layout": 
       {
         "pad": "pad", 
-        "location": [-0.87,0.5]
+        "location": [-0.87,0.25]
       }
     },
   "6":
@@ -55,7 +55,7 @@
       "layout": 
       {
         "pad": "pad", 
-        "location": [-1.97,0.5]
+        "location": [-1.97,0.25]
       }
     },
   "7":
@@ -63,7 +63,7 @@
       "layout": 
       {
         "pad": "pad", 
-        "location": [-3.11,0.5]
+        "location": [-3.11,0.25]
       }
     },
   "8":
@@ -71,7 +71,7 @@
       "layout": 
       {
         "pad": "pad", 
-        "location": [-4.21,0.5]
+        "location": [-4.21,0.25]
       }
     },
   "PIN9":
@@ -79,7 +79,7 @@
       "layout": 
       {
         "pad": "P9", 
-        "location": [5.29,3.18]
+        "location": [5.55,3.18]
       }
     },
   "G2":
@@ -87,7 +87,7 @@
       "layout": 
       {
         "pad": "G", 
-        "location": [5.325,6.96]
+        "location": [5.575,6.96]
       }
     },
   "G1":
@@ -95,7 +95,7 @@
       "layout": 
       {
         "pad": "G", 
-        "location": [5.325,4.41]
+        "location": [5.575,4.41]
       }
     },
   "G3":
@@ -103,7 +103,7 @@
       "layout": 
       {
         "pad": "G", 
-        "location": [-5.325,6.39]
+        "location": [-5.575,6.39]
       }
     },
   "G4":
@@ -111,7 +111,7 @@
       "layout": 
       {
         "pad": "G-big", 
-        "location": [-5.325,3.31]
+        "location": [-5.575,3.31]
       }
     },
   "M1":
@@ -119,7 +119,7 @@
       "layout": 
       {
         "pad": "long", 
-        "location": [-2.095,7.736]
+        "location": [-2.095,7.986]
       }
     },
   "M2":
@@ -127,7 +127,7 @@
       "layout": 
       {
         "pad": "long", 
-        "location": [2.095,7.736]
+        "location": [2.095,7.986]
       }
     }
   },
@@ -169,7 +169,7 @@
           "type": "rect",
           "outline": 0,
           "width": 0.5,
-          "height": 1,
+          "height": 1.5,
           "radii": {
             "bl": 0.1, 
             "br": 0.1, 
@@ -186,7 +186,7 @@
         {
           "type": "rect",
           "outline": 0,
-          "width": 0.72,
+          "width": 1.22,
           "height": 0.78,
           "radii": {
             "bl": 0.05, 
@@ -204,7 +204,7 @@
         {
           "type": "rect",
           "outline": 0,
-          "width": 1.05,
+          "width": 1.55,
           "height": 1,
           "radii": {
             "bl": 0.05, 
@@ -222,7 +222,7 @@
         {
           "type": "rect",
           "outline": 0,
-          "width": 1.05,
+          "width": 1.55,
           "height": 2.4,
           "radii": {
             "bl": 0.05, 
@@ -240,7 +240,7 @@
         {
           "type": "rect",
           "outline": 0,
-          "width": 2.91,
+          "width": 3.41,
           "height": 0.55,
           "radii": {
             "bl": 0.05, 
