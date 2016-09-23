@@ -17,7 +17,7 @@
           "rotate": 0, 
           "style": "fill", 
           "type": "text", 
-          "value": "gnd\nswd_c\nswd_d\n3v3"
+          "value": "gnd\nswd_clk\nswd_dio\n3v3"
         }
       ]
     }
