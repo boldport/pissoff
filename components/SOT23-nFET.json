@@ -6,7 +6,7 @@
       "layout": 
       {
         "pad": "pad", 
-        "location": [-0.95, -1],
+        "location": [-0.95, -1.08],
         "label": "G"
       }
     },
@@ -15,7 +15,7 @@
       "layout": 
       {
         "pad": "pad", 
-        "location": [0.95, -1],
+        "location": [0.95, -1.08],
         "label": "S"
       }
     },
@@ -24,7 +24,7 @@
       "layout": 
       {
         "pad": "pad", 
-        "location": [0, 1],
+        "location": [0, 1.08],
         "label": "D"
       }
     }
