@@ -11,6 +11,7 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
+          "show": false,
           "location": [
             0, 
             0
@@ -23,14 +24,14 @@
       "layer": "top", 
       "location": [
         -32.972394, 
-        15.377142
+        10.251477
       ], 
       "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
           "location": [
-            2.519524, 
+            2.516033, 
             0
           ]
         }
@@ -187,7 +188,7 @@
       }
     }, 
     "D3": {
-      "footprint": "0805", 
+      "footprint": "0805-led", 
       "layer": "top", 
       "location": [
         -7.016676, 
@@ -306,7 +307,7 @@
       "silkscreen": {
         "refdef": {
           "location": [
-            6.016559, 
+            5.882402, 
             1.693332
           ]
         }
@@ -414,6 +415,7 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
+          "show": false,
           "location": [
             0, 
             0
@@ -451,6 +453,7 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
+          "show": false,
           "location": [
             0, 
             0
@@ -874,14 +877,14 @@
       "layer": "top", 
       "location": [
         -32.972394, 
-        10.251477
+        15.377142
       ], 
       "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
           "location": [
-            2.516033, 
+            2.519524, 
             0
           ]
         }
@@ -959,7 +962,7 @@
         }
       }
     }, 
-    "SP1": {
+    "LS1": {
       "footprint": "speaker", 
       "layer": "top", 
       "location": [
@@ -970,6 +973,7 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
+        "show": false,
           "location": [
             0, 
             0
@@ -1197,7 +1201,7 @@
       "layer": "top", 
       "location": [
         -30.528892, 
-        -18.178876
+        -17.503762
       ], 
       "rotate": -90, 
       "show": true
