@@ -20,8 +20,8 @@
           "type": "circle",
 	  "layers": ["top", "internal", "bottom"],
 	  "style": "fill",
-          "diameter": 0.72,
-          "buffer-to-pour": 0.125,
+          "diameter": 0.75,
+          "buffer-to-pour": 0.2,
           "soldermask": {}
         }
       ],
