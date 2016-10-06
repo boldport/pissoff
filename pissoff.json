@@ -156,10 +156,7 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "location": [
-            0, 
-            0
-          ]
+          "show": false
         }, 
         "shapes": {
           "show": false
@@ -177,10 +174,7 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "location": [
-            0, 
-            0
-          ]
+          "show": false
         }, 
         "shapes": {
           "show": false
@@ -353,15 +347,15 @@
       "footprint": "solder-blob-jumper", 
       "layer": "top", 
       "location": [
-        -40.045659, 
-        16.110181
+        -42.263368, 
+        16.640915
       ], 
       "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
           "location": [
-            -2.257778, 
+            2.257778, 
             0
           ]
         }
@@ -552,24 +546,6 @@
         }
       }
     }, 
-    "R12": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -32.972394, 
-        0.000659
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            2.842937, 
-            0
-          ]
-        }
-      }
-    }, 
     "R13": {
       "footprint": "0805", 
       "layer": "top", 
@@ -611,7 +587,7 @@
       "layer": "top", 
       "location": [
         -32.972394, 
-        -2.562907
+        -5.125055
       ], 
       "rotate": 0, 
       "show": true, 
@@ -629,7 +605,7 @@
       "layer": "top", 
       "location": [
         -32.972394, 
-        -5.125055
+        -7.688522
       ], 
       "rotate": 0, 
       "show": true, 
@@ -647,7 +623,7 @@
       "layer": "top", 
       "location": [
         -32.972394, 
-        -7.688522
+        -10.25077
       ], 
       "rotate": 0, 
       "show": true, 
@@ -734,7 +710,7 @@
       "layer": "top", 
       "location": [
         -32.972394, 
-        -10.251429
+        -12.814285
       ], 
       "rotate": 0, 
       "show": true, 
@@ -976,6 +952,24 @@
         "refdef": {
           "location": [
             2.519207, 
+            0
+          ]
+        }
+      }
+    }, 
+    "VR1": {
+      "footprint": "bourns-tc33x-pot", 
+      "layer": "top", 
+      "location": [
+        -32.972394, 
+        -1.321425
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            2.841033, 
             0
           ]
         }
