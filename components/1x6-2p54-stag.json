@@ -74,12 +74,7 @@
 	  "layers": ["top","bottom"],
 	  "type": "circle",
 	  "outline": 0,
-	  "diameter": 1.5,
-          "soldermask": {
-	    "type": "circle",
-	    "outline": 0,
-	    "diameter": 1.4
-          } 
+	  "diameter": 1.9 
 	}
       ],
       "drills":
