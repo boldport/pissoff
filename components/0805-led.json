@@ -31,6 +31,12 @@
           "height": 1.4,
           "location": [-2.1, 0],
           "style": "fill"
+        },
+        {
+          "type": "path",
+          "value": "m -6.6583748,17.340523 0,1.198954 L -7.337534,17.94 Z", 
+          "location": [0, 0],
+          "style": "fill"
         }
       ]
     },
