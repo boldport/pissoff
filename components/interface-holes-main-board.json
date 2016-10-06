@@ -50,7 +50,7 @@
 	{
 	  "layers": ["top","bottom"],
 	  "type": "circle",
-	  "diameter": 3
+	  "diameter": 2.5
 	}
       ],
       "drills":
