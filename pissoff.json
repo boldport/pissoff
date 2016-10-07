@@ -156,10 +156,14 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "show": false
+          "location": [
+            -0.0, 
+            1.581535
+          ], 
+          "show": true
         }, 
         "shapes": {
-          "show": false
+          "show": true
         }
       }
     }, 
@@ -174,10 +178,14 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "show": false
+          "location": [
+            -0.0, 
+            1.581535
+          ], 
+          "show": true
         }, 
         "shapes": {
-          "show": false
+          "show": true
         }
       }
     }, 
