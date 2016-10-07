@@ -7,9 +7,9 @@
       [
         {
           "font-family": "UbuntuMono-R-webfont", 
-          "font-size": "2.0mm", 
+          "font-size": "1.8mm", 
           "letter-spacing": "0mm", 
-          "line-height": "2mm", 
+          "line-height": "1.6mm", 
           "location": [
             0, 
             0
@@ -17,7 +17,7 @@
           "rotate": 0, 
           "style": "fill", 
           "type": "text", 
-          "value": "PissOff, a Boldport Club production\nbased on a design by Lucky Resistor"
+          "value": "PissOff. A Boldport production\nbased on a Lucky Resistor design\nhttp://boldport.com/pissoff"
         }
       ]
     }
