@@ -23,24 +23,6 @@
       "footprint": "0805-cap", 
       "layer": "top", 
       "location": [
-        -32.972394, 
-        10.251477
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            2.516033, 
-            0
-          ]
-        }
-      }
-    }, 
-    "C2": {
-      "footprint": "0805-cap", 
-      "layer": "top", 
-      "location": [
         -7.016676, 
         15.377142
       ], 
@@ -55,7 +37,7 @@
         }
       }
     }, 
-    "C3": {
+    "C2": {
       "footprint": "0805-cap", 
       "layer": "top", 
       "location": [
@@ -68,6 +50,24 @@
         "refdef": {
           "location": [
             2.493108, 
+            0
+          ]
+        }
+      }
+    }, 
+    "C3": {
+      "footprint": "0805-cap", 
+      "layer": "top", 
+      "location": [
+        -32.972394, 
+        10.251477
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            2.516033, 
             0
           ]
         }
@@ -95,24 +95,6 @@
       "footprint": "0805-cap", 
       "layer": "top", 
       "location": [
-        -7.016676, 
-        -5.125714
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -3.200266, 
-            0
-          ]
-        }
-      }
-    }, 
-    "C6": {
-      "footprint": "0805-cap", 
-      "layer": "top", 
-      "location": [
         -40.092388, 
         -5.125714
       ], 
@@ -123,6 +105,24 @@
           "location": [
             0, 
             -1.493232
+          ]
+        }
+      }
+    }, 
+    "C6": {
+      "footprint": "0805-cap", 
+      "layer": "top", 
+      "location": [
+        -7.016676, 
+        -5.125714
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -3.200266, 
+            0
           ]
         }
       }
@@ -554,7 +554,7 @@
         }
       }
     }, 
-    "R13": {
+    "R12": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
@@ -572,7 +572,7 @@
         }
       }
     }, 
-    "R14": {
+    "R13": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
@@ -590,7 +590,7 @@
         }
       }
     }, 
-    "R15": {
+    "R14": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
@@ -608,7 +608,7 @@
         }
       }
     }, 
-    "R16": {
+    "R15": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
@@ -626,25 +626,7 @@
         }
       }
     }, 
-    "R17": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -32.972394, 
-        -10.25077
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            2.849603, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R18": {
+    "R16": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
@@ -662,7 +644,7 @@
         }
       }
     }, 
-    "R19": {
+    "R17": {
       "footprint": "res-th-10mm", 
       "layer": "bottom", 
       "location": [
@@ -677,25 +659,25 @@
         }
       }
     }, 
-    "R2": {
+    "R18": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
         -32.972394, 
-        12.814285
+        -10.25077
       ], 
       "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
           "location": [
-            2.517937, 
+            2.849603, 
             0
           ]
         }
       }
     }, 
-    "R20": {
+    "R19": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
@@ -713,25 +695,25 @@
         }
       }
     }, 
-    "R21": {
+    "R2": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
         -32.972394, 
-        -12.814285
+        15.377142
       ], 
       "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
           "location": [
-            2.838494, 
+            2.519524, 
             0
           ]
         }
       }
     }, 
-    "R22": {
+    "R20": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
@@ -749,7 +731,7 @@
         }
       }
     }, 
-    "R23": {
+    "R21": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
@@ -767,7 +749,25 @@
         }
       }
     }, 
-    "R24": {
+    "R22": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -32.972394, 
+        -12.814285
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            2.838494, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R23": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
@@ -785,12 +785,30 @@
         }
       }
     }, 
-    "R25": {
+    "R24": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
         28.014294, 
         -15.377143
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -2.862646, 
+            0
+          ]
+        }
+      }
+    }, 
+    "R25": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        28.014294, 
+        -17.94
       ], 
       "rotate": 0, 
       "show": true, 
@@ -821,25 +839,25 @@
         }
       }
     }, 
-    "R27": {
+    "R3": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
-        28.014294, 
-        -17.94
+        -32.972394, 
+        12.814285
       ], 
       "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
           "location": [
-            -2.862646, 
+            2.517937, 
             0
           ]
         }
       }
     }, 
-    "R3": {
+    "R4": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
@@ -857,7 +875,7 @@
         }
       }
     }, 
-    "R4": {
+    "R5": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
@@ -870,24 +888,6 @@
         "refdef": {
           "location": [
             2.518255, 
-            0
-          ]
-        }
-      }
-    }, 
-    "R5": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -32.972394, 
-        15.377142
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            2.519524, 
             0
           ]
         }
