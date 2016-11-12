@@ -68,6 +68,7 @@
           "style": "fill",
           "diameter": 18,
           "soldermask": {},
+          "solderpaste": {},
           "buffer-to-pour": 1
         }
       ]      

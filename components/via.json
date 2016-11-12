@@ -22,6 +22,7 @@
 	  "style": "fill",
           "diameter": 0.76,
           "buffer-to-pour": 0.2,
+          "solderpaste": {},
           "soldermask": {}
         }
       ],

@@ -52,6 +52,7 @@
 	{
 	  "layers": ["top","bottom"],
 	  "type": "circle",
+          "solderpaste": {},
 	  "diameter": 1.9
 	}
       ],

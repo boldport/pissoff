@@ -61,6 +61,7 @@
           "type": "circle",
 	  "layers": ["top", "bottom"],
           "outline": 0,
+          "solderpaste": {},
           "diameter": 1.9,
           "offset": [0, 0] 
         }
@@ -81,6 +82,7 @@
           "type": "rect",
 	  "layers": ["top", "bottom"],
           "width": 1.9,
+          "solderpaste": {},
           "height": 1.9,
           "radii": {"tl": 0.3, "tr": 0.3, "bl": 0.3, "br": 0.3}
         }
